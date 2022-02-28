@@ -1,0 +1,7 @@
+1. Python 3.9.9
+The following Libraries will be required to run the code:
+1. Tkinter
+2. matplot library
+3. Pillow Library
+4. cv2 library
+5. numpy library
